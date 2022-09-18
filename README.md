@@ -1,3 +1,9 @@
 # BMICalculator
 Check body mass index (BMI)
 Your BMI, or Body Mass Index, is a measure of your weight compared to your height. 
+<img src="https://github.com/adesanyaaa/BMICalculator/blob/main/Screenshot_20220827_223639.png
+", widhth="50% height="50%>
+<img src="https://github.com/adesanyaaa/BMICalculator/blob/main/Screenshot_20220827_223734.png
+">
+<img src="https://github.com/adesanyaaa/BMICalculator/blob/main/Screenshot_20220827_223805.png
+">
